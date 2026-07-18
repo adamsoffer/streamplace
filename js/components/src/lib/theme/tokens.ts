@@ -9,17 +9,17 @@ export const colors = {
   // Primary colors — the product accent. A muted indigo used sparingly:
   // interactive states, focus rings, the Go Live moment.
   primary: {
-    50: "#eef0fb",
-    100: "#dfe2f7",
-    200: "#c4c9f0",
-    300: "#a2aae7",
-    400: "#7d87dc",
-    500: "#5e6ad2",
-    600: "#4c56be",
-    700: "#3f479e",
-    800: "#353b7e",
-    900: "#2e3366",
-    950: "#1b1d3d",
+    50: "#fef1f2",
+    100: "#fde0e2",
+    200: "#fbc6ca",
+    300: "#f79aa0",
+    400: "#f56271",
+    500: "#f23041",
+    600: "#dd2033",
+    700: "#ba1826",
+    800: "#991722",
+    900: "#7f1820",
+    950: "#470b10",
   },
 
   // Tailwind default palettes:
